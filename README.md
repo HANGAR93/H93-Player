@@ -1,59 +1,62 @@
-# 🎧 HANGAR93
+# HANGAR93 — Pseudo-Native Music Player
 
-**HANGAR93** is a pseudo-native music player app designed to offer a personalized and fully local experience. Developed entirely with **JavaScript** and **CSS**, without external dependencies or images, the app allows you to create and manage personalized playlists, all stored securely in **IndexedDB**. Its design is visually striking, with a retro-style interface built entirely with **pure CSS**.
+**HANGAR93** is a pseudo-native music player application designed to provide a personalized and fully local music management experience.
 
----
+Built from scratch with **Vanilla JavaScript and pure CSS**, the project combines a retro-inspired interface with modern browser technologies such as **IndexedDB** for persistent local data storage.
+
+The application was designed to feel more like a standalone desktop product than a traditional web application, with a custom interface, playlist management and interactive features.
 
 ## 🚀 Features
-- 🎵 **Add and edit tracks manually**: Create and customize your own playlists.
-- 📂 **Manage playlists**: Organize, rename, and sort your tracks effortlessly.
-- 🧠 **Basic AI functionality**: Powered by **OpenAI GPT-3.5**, providing smarter user interactions.
-- 💾 **Local storage**: Data is stored in **IndexedDB**, with no need for external servers.
-- 📝 **Feedback system**: Share and receive feedback within the app.
-- 💡 **Retro UI**: Styled with a vintage aesthetic, using only **pure CSS**.
 
----
+* 🎵 **Manual track management** — Add, edit and organize your own tracks.
+* 📂 **Playlist management** — Create, rename, sort and manage personalized playlists.
+* 🧠 **AI integration** — Basic AI functionality powered by OpenAI GPT-3.5.
+* 💾 **Local persistence** — Playlists and application data are stored locally using IndexedDB.
+* 📝 **Feedback system** — Integrated system for submitting feedback directly through the application.
+* 🎨 **Custom retro UI** — A distinctive interface created entirely with HTML and pure CSS.
+* 📱 **Responsive interface** — Designed to adapt to different screen sizes.
+* 🖥️ **Pseudo-native experience** — Packaged as a desktop application to provide a more native-like experience.
 
-## 📱 Pseudo-Native Experience
+## 🛠️ Technologies
 
-HANGAR93 is designed to behave like a native app:
-- 🚀 **Visually striking performance**: The app is designed to be dynamic and visually appealing.
-- 💾 **Local persistence**: All data is stored locally on your device.
-- 📱 **Responsive design**: The app works across different screen resolutions.
-- 🌐 **Offline functionality**: The app does not work offline—an internet connection is required.
+* **Vanilla JavaScript**
+* **HTML5**
+* **Pure CSS**
+* **IndexedDB**
+* **OpenAI GPT-3.5**
+* **Desktop application packaging**
 
----
+## 🎯 Project Focus
 
-## 🧪 Technologies Used
+HANGAR93 was created as an exploration of how far a browser-based application can be pushed toward a **desktop-like product experience without relying on large frameworks or complex front-end stacks**.
 
-- **Vanilla JavaScript**
-- **Pure CSS** (no frameworks)
-- **OpenAI GPT-3.5** (for basic AI features)
-- **IndexedDB** (for local storage)
-- **No images, no frameworks**: Just pure code.
+The project focuses on:
 
----
+* Interface design
+* Interaction design
+* Local data management
+* Responsive layouts
+* Custom animations and UI systems
+* JavaScript application architecture
 
-## 🆕 Latest Updates
+## 📸 Screenshots
 
-- ✅ **Now works as a pseudo-native app**: Provides a fast and smooth user experience.
-- 🤖 **AI integration with OpenAI GPT-3.5**: Enhances user interactions with basic AI features.
-- 💾 **Uses IndexedDB for local storage**: All data is stored locally on your device.
-- 📬 **Feedback system**: You can now provide feedback directly within the app.
+### HANGAR93 — Interactive 3D Music Player
 
----
+![HANGAR93 interface](h93-1.png)
 
-## 🛠️ How to Use
+### HANGAR93 — Interface
 
-1. **Download the app**: [Download HANGAR93 v1.1.2](https://www.mediafire.com/file/0c0a9yw2wquv41p/H93.rar/file)
-2. **Run the .exe file**: No additional installation required.
-3. Enjoy your music and manage your personalized playlists directly from the app.
+![HANGAR93 playlist interface](h93-2.png)
 
----
+## 📦 Version
 
-### 📝 License
+**HANGAR93 v1.1.2**
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) ![MIT License](https://img.shields.io/badge/License-MIT-green)
+The application is distributed as a standalone executable and requires no traditional installation.
 
+> **Note:** An internet connection is required for features that depend on external services, such as the AI functionality.
 
+## 📝 License
 
+This project is licensed under the **MIT License**.
